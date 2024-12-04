@@ -28,11 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-     <form action="">
-      <input type="text" />
-      <br />
-      <input type="password" />
-     </form>
+ 
+
+ 
     </>
   )
 }
