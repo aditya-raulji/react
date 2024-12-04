@@ -199,7 +199,8 @@ function HomePage() {
             <img src="https://dom-website-prod-cdn-web.porter.in/public/assets/icons/home/section-header-wave-light.svg"
                 alt="" className="design2"></img>
         </div>
-        <div className="container32">
+        
+          <div className="container32">
             <div className="child34">
                 <div className="child341">
                     <img src="https://dom-website-prod-cdn-cms.porter.in/profile_pic_1_d8dfbc2a0e_1b31c25460.png" alt=""
@@ -212,22 +213,23 @@ function HomePage() {
                 <p className="way">“Way better than naaka waalas. Have shifted all my logistics needs to Porter and I can
                     now safely focus on my business growth. Amazing service!”</p>
             </div>
+            
 
-            <div className="child34">
+             <div className="child34">
                 <div className="child341">
                     <img src="https://dom-website-prod-cdn-cms.porter.in/profile_pic_2_b5211b5ba2_781bcaf609.png" alt=""
                         className="photo"></img>
                     <p className="vinay">Dinesh</p>
                     <p className="dinesh2">Trucks,4.0 <img
                             src="https://dom-website-prod-cdn-web.porter.in/public/images/common/rating_star.svg" alt=""
-                            className="star"> </img><br></br> Mumbai</p>
+                            className="star"/> <br/> Mumbai</p>
                 </div>
                 <p className="way">“Excellent service by multiple drivers. I own a business and do multiple shiftings.
                     Rather than ask local drivers and bargain every time, I use porter which fulfils all my need. Thanks
                     a lot!”</p>
             </div>
-
-            <div className="child34">
+          
+           <div className="child34">
                 <div className="child341">
                     <img src="https://dom-website-prod-cdn-cms.porter.in/profile_pic_3_a7a672e59c_70d87cc5ed.png" alt=""
                         className="photo"></img>
@@ -252,8 +254,8 @@ function HomePage() {
                     every detail. Highly recommend their services!“</p>
             </div>
 
-        </div>
-
+        </div> 
+         
 
         <div className="slide1">
             <div className="slide1">
@@ -352,7 +354,7 @@ function HomePage() {
                 <p className="copy"> 2024 SmartShift Logistics Solutions Pvt. Ltd. | CIN: U74999MH2014PTC306120</p>
             </div>
         </div>
-    </div>
+    </div>  
           
    
  
