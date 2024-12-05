@@ -15,6 +15,7 @@ import img13 from './img/party-popper-svgrepo-com.svg'
 import img14 from './img/right_arrow.svg'
 
 
+
 function HomePage() {
 
   return (            
@@ -356,7 +357,8 @@ function HomePage() {
         </div>
     </div>  
           
-   
+
+
  
         
     </>   
